@@ -1,6 +1,6 @@
 # IntelloTask -  Task Management Application for corporate employees
 
-🚀 **[Live Demo: https://intellotask.netlify.app](https://intellotask.netlify.app)**
+🚀 **[Visit the website](https://intellotask.netlify.app)**
 
 A comprehensive, high-end task management web application designed for modern teams. IntelloTask provides role-based access control, real-time analytics, and an intuitive user interface for efficient project and employee management.
 
