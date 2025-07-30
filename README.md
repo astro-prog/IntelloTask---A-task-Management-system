@@ -229,16 +229,8 @@ npm run preview
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-
-
-## 🙏 Acknowledgments
-
-To Intellohire team and my PS faculty Dr. Sapna Sadhwani for providing this wonderful opportunity to work on and specifically  thankful to my teammates 
-[**Divyansh Gupta**](https://github.com/DGskywalker) and [**Sarvagya Jain**](https://github.com/Thefrankyjain)
-for their exceptional contribution throughout the process 
-Looking forward to contribute into more meaning projects with them and which can solve real life problems.
 ---
 
-Made with ❤️ by [**@astro-prog**](https://github.com/astro-prog), [**Divyansh Gupta**](https://github.com/DGskywalker) and [**Sarvagya Jain**](https://github.com/Thefrankyjain)
+Made with ❤️ by [**@astro-prog**](https://github.com/astro-prog)
 
 **IntelloTask** - Empowering teams with intelligent task management 🚀
